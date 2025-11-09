@@ -3,161 +3,161 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Bowen Deng
+      - name: Luis Martinez Agulleiro
         givenName: ''
         familyName: ''
         order: 1
         nameType: Personal
-        nameIdentifiers: &ref_0 []
+        nameIdentifiers: &ref_0
+          - nameIdentifier: https://orcid.org/0000-0003-1444-8466
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
         contributorType: Researcher
-      - name: Richard Gallagher
+      - name: Bowen Deng
         givenName: ''
         familyName: ''
         order: 2
         nameType: Personal
         nameIdentifiers: &ref_1 []
         contributorType: Researcher
-      - name: Howard A Abikoff
+      - name: Richard Gallagher
         givenName: ''
         familyName: ''
         order: 3
         nameType: Personal
         nameIdentifiers: &ref_2 []
         contributorType: Researcher
-      - name: Yuliya Yoncheva
+      - name: Howard A Abikoff
         givenName: ''
         familyName: ''
         order: 4
         nameType: Personal
         nameIdentifiers: &ref_3 []
         contributorType: Researcher
-      - name: Lauren Robinson
+      - name: Yuliya Yoncheva
         givenName: ''
         familyName: ''
         order: 5
         nameType: Personal
         nameIdentifiers: &ref_4 []
         contributorType: Researcher
-      - name: Greta Conlon
+      - name: Lauren Robinson
         givenName: ''
         familyName: ''
         order: 6
         nameType: Personal
         nameIdentifiers: &ref_5 []
         contributorType: Researcher
-      - name: Maleeha Haroon
+      - name: Greta Conlon
         givenName: ''
         familyName: ''
         order: 7
         nameType: Personal
         nameIdentifiers: &ref_6 []
         contributorType: Researcher
-      - name: Chao-Gan Yan
+      - name: Maleeha Haroon
         givenName: ''
         familyName: ''
         order: 8
         nameType: Personal
         nameIdentifiers: &ref_7 []
         contributorType: Researcher
-      - name: Adriana Di Martino
+      - name: Chao-Gan Yan
         givenName: ''
         familyName: ''
         order: 9
         nameType: Personal
         nameIdentifiers: &ref_8 []
         contributorType: Researcher
-      - name: Yihong Zhao
+      - name: Adriana Di Martino
         givenName: ''
         familyName: ''
         order: 10
         nameType: Personal
         nameIdentifiers: &ref_9 []
         contributorType: Researcher
-      - name: Francisco Xavier Castellanos
+      - name: Yihong Zhao
         givenName: ''
         familyName: ''
         order: 11
         nameType: Personal
         nameIdentifiers: &ref_10 []
         contributorType: Researcher
-      - name: Luis Martinez Agulleiro
+      - name: Francisco Xavier Castellanos
         givenName: ''
         familyName: ''
         order: 12
         nameType: Personal
-        nameIdentifiers: &ref_11
-          - nameIdentifier: https://orcid.org/0000-0003-1444-8466
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
+        nameIdentifiers: &ref_11 []
         contributorType: Researcher
     creators:
-      - name: Bowen Deng
+      - name: Luis Martinez Agulleiro
         givenName: ''
         familyName: ''
         order: 1
         nameType: Personal
         nameIdentifiers: *ref_0
-      - name: Richard Gallagher
+      - name: Bowen Deng
         givenName: ''
         familyName: ''
         order: 2
         nameType: Personal
         nameIdentifiers: *ref_1
-      - name: Howard A Abikoff
+      - name: Richard Gallagher
         givenName: ''
         familyName: ''
         order: 3
         nameType: Personal
         nameIdentifiers: *ref_2
-      - name: Yuliya Yoncheva
+      - name: Howard A Abikoff
         givenName: ''
         familyName: ''
         order: 4
         nameType: Personal
         nameIdentifiers: *ref_3
-      - name: Lauren Robinson
+      - name: Yuliya Yoncheva
         givenName: ''
         familyName: ''
         order: 5
         nameType: Personal
         nameIdentifiers: *ref_4
-      - name: Greta Conlon
+      - name: Lauren Robinson
         givenName: ''
         familyName: ''
         order: 6
         nameType: Personal
         nameIdentifiers: *ref_5
-      - name: Maleeha Haroon
+      - name: Greta Conlon
         givenName: ''
         familyName: ''
         order: 7
         nameType: Personal
         nameIdentifiers: *ref_6
-      - name: Chao-Gan Yan
+      - name: Maleeha Haroon
         givenName: ''
         familyName: ''
         order: 8
         nameType: Personal
         nameIdentifiers: *ref_7
-      - name: Adriana Di Martino
+      - name: Chao-Gan Yan
         givenName: ''
         familyName: ''
         order: 9
         nameType: Personal
         nameIdentifiers: *ref_8
-      - name: Yihong Zhao
+      - name: Adriana Di Martino
         givenName: ''
         familyName: ''
         order: 10
         nameType: Personal
         nameIdentifiers: *ref_9
-      - name: Francisco Xavier Castellanos
+      - name: Yihong Zhao
         givenName: ''
         familyName: ''
         order: 11
         nameType: Personal
         nameIdentifiers: *ref_10
-      - name: Luis Martinez Agulleiro
+      - name: Francisco Xavier Castellanos
         givenName: ''
         familyName: ''
         order: 12
