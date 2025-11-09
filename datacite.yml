@@ -6,7 +6,7 @@ data:
       - name: Luis Martinez Agulleiro
         givenName: ''
         familyName: ''
-        order: 1
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_0
           - nameIdentifier: https://orcid.org/0000-0003-1444-8466
@@ -16,77 +16,77 @@ data:
       - name: Bowen Deng
         givenName: ''
         familyName: ''
-        order: 2
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_1 []
         contributorType: Researcher
       - name: Richard Gallagher
         givenName: ''
         familyName: ''
-        order: 3
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_2 []
         contributorType: Researcher
       - name: Howard A Abikoff
         givenName: ''
         familyName: ''
-        order: 4
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_3 []
         contributorType: Researcher
       - name: Yuliya Yoncheva
         givenName: ''
         familyName: ''
-        order: 5
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_4 []
         contributorType: Researcher
       - name: Lauren Robinson
         givenName: ''
         familyName: ''
-        order: 6
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_5 []
         contributorType: Researcher
       - name: Greta Conlon
         givenName: ''
         familyName: ''
-        order: 7
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_6 []
         contributorType: Researcher
       - name: Maleeha Haroon
         givenName: ''
         familyName: ''
-        order: 8
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_7 []
         contributorType: Researcher
       - name: Chao-Gan Yan
         givenName: ''
         familyName: ''
-        order: 9
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_8 []
         contributorType: Researcher
       - name: Adriana Di Martino
         givenName: ''
         familyName: ''
-        order: 10
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_9 []
         contributorType: Researcher
       - name: Yihong Zhao
         givenName: ''
         familyName: ''
-        order: 11
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_10 []
         contributorType: Researcher
       - name: Francisco Xavier Castellanos
         givenName: ''
         familyName: ''
-        order: 12
+        order: 0
         nameType: Personal
         nameIdentifiers: &ref_11 []
         contributorType: Researcher
@@ -94,73 +94,73 @@ data:
       - name: Luis Martinez Agulleiro
         givenName: ''
         familyName: ''
-        order: 1
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_0
       - name: Bowen Deng
         givenName: ''
         familyName: ''
-        order: 2
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_1
       - name: Richard Gallagher
         givenName: ''
         familyName: ''
-        order: 3
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_2
       - name: Howard A Abikoff
         givenName: ''
         familyName: ''
-        order: 4
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_3
       - name: Yuliya Yoncheva
         givenName: ''
         familyName: ''
-        order: 5
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_4
       - name: Lauren Robinson
         givenName: ''
         familyName: ''
-        order: 6
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_5
       - name: Greta Conlon
         givenName: ''
         familyName: ''
-        order: 7
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_6
       - name: Maleeha Haroon
         givenName: ''
         familyName: ''
-        order: 8
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_7
       - name: Chao-Gan Yan
         givenName: ''
         familyName: ''
-        order: 9
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_8
       - name: Adriana Di Martino
         givenName: ''
         familyName: ''
-        order: 10
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_9
       - name: Yihong Zhao
         givenName: ''
         familyName: ''
-        order: 11
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_10
       - name: Francisco Xavier Castellanos
         givenName: ''
         familyName: ''
-        order: 12
+        order: 0
         nameType: Personal
         nameIdentifiers: *ref_11
     descriptions:
