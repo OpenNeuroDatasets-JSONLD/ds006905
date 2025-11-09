@@ -3,24 +3,30 @@
     "BIDSVersion": "1.8.0",
     "HEDVersion": "8.2.0",
     "DatasetType": "raw",
-    "License": "",
+    "License": "CC0",
     "Authors": [
-      "",
-      "",
-      ""
+        "",
+        "",
+        ""
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
     "Funding": [
-      "",
-      "",
-      ""
+        "",
+        "",
+        "",
+        "NIMH R61MH113663 ",
+        "NIMH R33MH113663",
+        "NIMH R01MH105506",
+        "Fundacion Alicia Koplowitz (Madrid, Spain)"
     ],
-    "EthicsApprovals": [""],
+    "EthicsApprovals": [
+        ""
+    ],
     "ReferencesAndLinks": [
-      "",
-      "",
-      ""
+        "",
+        "",
+        ""
     ],
     "DatasetDOI": "doi:"
-  }
+}
