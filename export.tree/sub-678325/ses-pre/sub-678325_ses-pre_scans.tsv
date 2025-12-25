@@ -1,0 +1,7 @@
+filename	acq_time	operator	randstr
+fmap/sub-678325_ses-pre_acq-fMRI_dir-AP_run-01_epi.nii.gz	2021-12-18T11:23:18	n/a	e13a2b1a
+fmap/sub-678325_ses-pre_acq-fMRI_dir-PA_run-01_epi.nii.gz	2021-12-18T11:23:41	n/a	1c298d63
+func/sub-678325_ses-pre_task-fix_acq-normal_run-01_bold.nii.gz	2021-12-18T11:26:16	n/a	e4021192
+func/sub-678325_ses-pre_task-inscapes_acq-normal_run-01_bold.nii.gz	2021-12-18T11:34:04	n/a	bf58f792
+func/sub-678325_ses-pre_task-films_acq-normal_run-01_bold.nii.gz	2021-12-18T11:42:08	n/a	d5516ae2
+anat/sub-678325_ses-pre_acq-highres_run-01_T1w.nii.gz	2021-12-18T12:01:10	n/a	de0b489c
