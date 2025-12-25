@@ -1,5 +1,0 @@
-filename	acq_time	operator	randstr
-fmap/sub-678137_ses-post_acq-fMRI_dir-AP_run-01_epi.nii.gz	2019-02-09T15:18:44	n/a	bb0c6d1e
-fmap/sub-678137_ses-post_acq-fMRI_dir-PA_run-01_epi.nii.gz	2019-02-09T15:19:05	n/a	559974de
-func/sub-678137_ses-post_task-fix_acq-normal_run-01_bold.nii.gz	2019-02-09T15:22:07	n/a	0cf4af58
-anat/sub-678137_ses-post_acq-highres_run-01_T1w.nii.gz	2019-02-09T16:05:06	n/a	f7a2000a

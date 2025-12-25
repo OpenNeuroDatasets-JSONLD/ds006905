@@ -1,5 +1,0 @@
-filename	acq_time	operator	randstr
-anat/sub-678147_ses-pre_acq-highres_run-01_T1w.nii.gz	2018-12-02T10:27:04	n/a	58c5c299
-fmap/sub-678147_ses-pre_acq-fMRI_dir-AP_run-01_epi.nii.gz	2018-12-02T10:47:38	n/a	c242b0ae
-fmap/sub-678147_ses-pre_acq-fMRI_dir-PA_run-01_epi.nii.gz	2018-12-02T10:47:49	n/a	2f800f7e
-func/sub-678147_ses-pre_task-fix_acq-normal_run-01_bold.nii.gz	2018-12-02T11:01:54	n/a	94243c8b
